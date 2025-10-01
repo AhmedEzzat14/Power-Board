@@ -1,0 +1,252 @@
+Removed Pin From Net: NetName=+12V_Load Pin=N?-2
+Removed Pin From Net: NetName=+12V Pin=N?-3
+Removed Member From Class: ClassName=2_CircuitBreaker Member=N?
+Add Component: Footprint Not Found CAP_2200uF_35V
+Added Component: Designator=C?(C0805)
+Add Component: Footprint Not Found CAP_2200uF_35V
+Added Component: Designator=P?(Mosfet)
+Added Component: Designator=P?(Mosfet)
+Added Component: Designator=Q?(FP-709AC-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio"; Value = "50%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "1Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "800ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "1.45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.08mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Current"; Value = "16mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation Voltage"; Value = "5kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "ACTIVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Collector Current"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Current"; Value = "25mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "100°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Output Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "84323390"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "8mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Breakdown Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "800ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541408000, 8541408000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "720mg"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Pin To Net: Unknown Pin: Pin 100n-N
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=+12V_Load Pin=P?-2
+Added Pin To Net: NetName=+12V_Load Pin=P?-2
+Added Pin To Net: NetName=+12V Pin=P?-3
+Added Pin To Net: NetName=Signal_GND Pin=Q?-3
+Added Pin To Net: NetName=Reset Pin=Q?-5
+Added Pin To Net: NetName=+5 Pin=Q?-8
+Added Pin To Net: NetName=Reset Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Add Pin To Net: Unknown Pin: Pin XT?-N
+Add Pin To Net: Unknown Pin: Pin XT?-N
+Added Net: Name=+12
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-1
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Pin To Net: NetName=+24 Pin=T?-2
+Added Net: Name=+24
+Added Pin To Net: NetName=+24V Pin=P?-3
+Added Net: Name=+24V
+Added Pin To Net: NetName=12V_Signal Pin=D?-A
+Added Pin To Net: NetName=12V_Signal Pin=Q?-2
+Added Pin To Net: NetName=12V_Signal Pin=U?-20
+Added Net: Name=12V_Signal
+Added Pin To Net: NetName=24V_Signal Pin=D?-A
+Added Pin To Net: NetName=24V_Signal Pin=Q?-2
+Added Pin To Net: NetName=24V_Signal Pin=U?-19
+Added Net: Name=24V_Signal
+Add Net: Net with name "NetD?_K" already exists
+Added Pin To Net: NetName=NetP?_1 Pin=P?-1
+Added Pin To Net: NetName=NetP?_1 Pin=Q?-6
+Added Pin To Net: NetName=NetP?_1 Pin=R?-1
+Added Net: Name=NetP?_1
+Add Net: Net with name "NetP?_1" already exists
+Add Net: Net with name "NetQ?_7" already exists
+Add Class Member: Failed to add class member : Component 100n CAP_2200uF_35V
+Added Member To Class: ClassName=1_Power Member=Component C? CAP_2200uF_35V
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component D? GREEN
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component D? RED
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component P? P Mosfet
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component P? P Mosfet
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component Q? 6N136SDM
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 270
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 2K2
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 270
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 2K2
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Add Class Member: Failed to add class member : Component XT? XT60-Male
+Add Class Member: Failed to add class member : Component XT? XT60-Male
+Add Class Member: Failed to add class member : Component XT? XT60-Male
+Add Class Member: Failed to add class member : Component XT? XT60-Male

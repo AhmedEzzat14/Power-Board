@@ -1,0 +1,19 @@
+Added Component: Designator=C100(C0805)
+Added Component: Designator=C101(C0805)
+Added Pin To Net: NetName=+12 Pin=C100-1
+Added Pin To Net: NetName=+24_unfiltered Pin=C100-1
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=+5 Pin=C200-1
+Added Pin To Net: NetName=gnd Pin=C201-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Add Net: Net with name "+24" already exists
+Add Net: Net with name "cell 1" already exists
+Add Net: Net with name "cell 2" already exists
+Add Net: Net with name "cell 3" already exists
+Add Net: Net with name "cell 4" already exists
+Add Net: Net with name "cell 5" already exists
+Add Net: Net with name "cell 6" already exists
+Added Member To Class: ClassName=1_Power Member=Component C100 100n
+Added Member To Class: ClassName=1_Power Member=Component C101 100n

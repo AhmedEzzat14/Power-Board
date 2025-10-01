@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=+12V_Load Pin=T102-1
+Removed Pin From Net: NetName=+12V_Load Pin=T102-2
+Removed Pin From Net: NetName=+12V_Load Pin=T105-1
+Removed Pin From Net: NetName=+12V_Load Pin=T105-2
+Removed Pin From Net: NetName=+12V_Load Pin=T108-1
+Removed Pin From Net: NetName=+12V_Load Pin=T108-2
+Removed Pin From Net: NetName=+12V_Load Pin=T111-1
+Removed Pin From Net: NetName=+12V_Load Pin=T111-2
+Removed Pin From Net: NetName=+12V_Load Pin=T114-1
+Removed Pin From Net: NetName=+12V_Load Pin=T114-2
+Removed Pin From Net: NetName=+12V_Load Pin=T117-1
+Removed Pin From Net: NetName=+12V_Load Pin=T117-2
+Removed Pin From Net: NetName=+12V_Load Pin=T120-1
+Removed Pin From Net: NetName=+12V_Load Pin=T120-2
+Removed Pin From Net: NetName=+12V_Load Pin=T123-1
+Removed Pin From Net: NetName=+12V_Load Pin=T123-2
+Removed Member From Class: ClassName=U_1_Power Member=T102
+Removed Member From Class: ClassName=U_1_Power Member=T105
+Removed Member From Class: ClassName=U_1_Power Member=T108
+Removed Member From Class: ClassName=U_1_Power Member=T111
+Removed Member From Class: ClassName=U_1_Power Member=T114
+Removed Member From Class: ClassName=U_1_Power Member=T117
+Removed Member From Class: ClassName=U_1_Power Member=T120
+Removed Member From Class: ClassName=U_1_Power Member=T123
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Add Net: Net with name "+12" already exists
+Add Net: Net with name "cell 2_f" already exists
+Add Net: Net with name "cell 3_f" already exists
+Add Net: Net with name "Mosfet_High" already exists
+Add Net: Net with name "Mosfet_Low" already exists

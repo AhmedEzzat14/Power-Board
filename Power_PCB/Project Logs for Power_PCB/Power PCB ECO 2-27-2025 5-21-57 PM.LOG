@@ -1,0 +1,156 @@
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Reset Pin=D?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=Reset Pin=D?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=1_Power Member=D?
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Component: Designator=T?(Terminal pin 6.3mm)
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=Reset Pin=T?-1
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=+12V_Load Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Added Pin To Net: NetName=Reset Pin=T?-2
+Add Net: Net with name "NetD?_K" already exists
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component D? GREEN
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 2K2
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 270
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 270
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm

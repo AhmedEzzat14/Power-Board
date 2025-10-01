@@ -1,0 +1,267 @@
+Removed Pin From Net: NetName=cell 1 output Pin=301-1
+Removed Pin From Net: NetName=cell 1 input - Pin=301-2
+Removed Pin From Net: NetName=cell 2 output Pin=302-1
+Removed Pin From Net: NetName=cell 2 input - Pin=302-2
+Removed Pin From Net: NetName=gnd Pin=303-1
+Removed Pin From Net: NetName=cell 1 input - Pin=303-2
+Removed Pin From Net: NetName=gnd Pin=304-1
+Removed Pin From Net: NetName=cell 2 input - Pin=304-2
+Removed Pin From Net: NetName=cell 1_f Pin=305-1
+Removed Pin From Net: NetName=cell 1 input + Pin=305-2
+Removed Pin From Net: NetName=cell 2_f Pin=306-1
+Removed Pin From Net: NetName=cell 2 input + Pin=306-2
+Removed Pin From Net: NetName=gnd Pin=307-1
+Removed Pin From Net: NetName=cell 1 input + Pin=307-2
+Removed Pin From Net: NetName=cell 2 input + Pin=309-1
+Removed Pin From Net: NetName=gnd Pin=309-2
+Removed Pin From Net: NetName=cell 3 output Pin=310-1
+Removed Pin From Net: NetName=cell 3 input - Pin=310-2
+Removed Pin From Net: NetName=cell 4 input - Pin=311-1
+Removed Pin From Net: NetName=cell 4 output Pin=311-2
+Removed Pin From Net: NetName=gnd Pin=312-1
+Removed Pin From Net: NetName=cell 3 input - Pin=312-2
+Removed Pin From Net: NetName=gnd Pin=314-1
+Removed Pin From Net: NetName=cell 4 input - Pin=314-2
+Removed Pin From Net: NetName=cell 3_f Pin=315-1
+Removed Pin From Net: NetName=cell 3 input + Pin=315-2
+Removed Pin From Net: NetName=cell 4_f Pin=316-1
+Removed Pin From Net: NetName=cell 4 input + Pin=316-2
+Removed Pin From Net: NetName=cell 3 input + Pin=317-1
+Removed Pin From Net: NetName=gnd Pin=317-2
+Removed Pin From Net: NetName=cell 4 input + Pin=318-1
+Removed Pin From Net: NetName=gnd Pin=318-2
+Removed Pin From Net: NetName=cell 5 output Pin=319-1
+Removed Pin From Net: NetName=cell 5 input - Pin=319-2
+Removed Pin From Net: NetName=cell 6 input - Pin=320-1
+Removed Pin From Net: NetName=cell 6 output Pin=320-2
+Removed Pin From Net: NetName=gnd Pin=321-1
+Removed Pin From Net: NetName=cell 5 input - Pin=321-2
+Removed Pin From Net: NetName=gnd Pin=322-1
+Removed Pin From Net: NetName=cell 6 input - Pin=322-2
+Removed Pin From Net: NetName=cell 5 input + Pin=323-2
+Removed Pin From Net: NetName=cell 6 input + Pin=324-2
+Removed Pin From Net: NetName=cell 5 input + Pin=325-1
+Removed Pin From Net: NetName=gnd Pin=325-2
+Removed Pin From Net: NetName=gnd Pin=326-1
+Removed Pin From Net: NetName=cell 6 input + Pin=326-2
+Removed Member From Class: ClassName=U_3_BMS Member=301
+Removed Member From Class: ClassName=U_3_BMS Member=302
+Removed Member From Class: ClassName=U_3_BMS Member=303
+Removed Member From Class: ClassName=U_3_BMS Member=304
+Removed Member From Class: ClassName=U_3_BMS Member=305
+Removed Member From Class: ClassName=U_3_BMS Member=306
+Removed Member From Class: ClassName=U_3_BMS Member=307
+Removed Member From Class: ClassName=U_3_BMS Member=309
+Removed Member From Class: ClassName=U_3_BMS Member=310
+Removed Member From Class: ClassName=U_3_BMS Member=311
+Removed Member From Class: ClassName=U_3_BMS Member=312
+Removed Member From Class: ClassName=U_3_BMS Member=314
+Removed Member From Class: ClassName=U_3_BMS Member=315
+Removed Member From Class: ClassName=U_3_BMS Member=316
+Removed Member From Class: ClassName=U_3_BMS Member=317
+Removed Member From Class: ClassName=U_3_BMS Member=318
+Removed Member From Class: ClassName=U_3_BMS Member=319
+Removed Member From Class: ClassName=U_3_BMS Member=320
+Removed Member From Class: ClassName=U_3_BMS Member=321
+Removed Member From Class: ClassName=U_3_BMS Member=322
+Removed Member From Class: ClassName=U_3_BMS Member=323
+Removed Member From Class: ClassName=U_3_BMS Member=324
+Removed Member From Class: ClassName=U_3_BMS Member=325
+Removed Member From Class: ClassName=U_3_BMS Member=326
+Added Component: Designator=R300(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R301(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R302(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R303(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R304(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R305(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R306(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R307(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R308(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R309(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R310(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R311(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R312(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R313(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R314(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R315(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R316(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R317(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R318(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R319(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R320(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R321(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R322(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R323(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=+5 Pin=C200-1
+Added Pin To Net: NetName=+5 Pin=C201-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Added Pin To Net: NetName=cell 1 input - Pin=R300-1
+Added Pin To Net: NetName=cell 1 output Pin=R300-2
+Added Pin To Net: NetName=cell 2 input - Pin=R301-1
+Added Pin To Net: NetName=cell 2 output Pin=R301-2
+Added Pin To Net: NetName=gnd Pin=R302-1
+Added Pin To Net: NetName=cell 1 input - Pin=R302-2
+Added Pin To Net: NetName=gnd Pin=R303-1
+Added Pin To Net: NetName=cell 2 input - Pin=R303-2
+Added Pin To Net: NetName=cell 1_f Pin=R304-1
+Added Pin To Net: NetName=cell 1 input + Pin=R304-2
+Added Pin To Net: NetName=cell 2_f Pin=R305-1
+Added Pin To Net: NetName=cell 2 input + Pin=R305-2
+Added Pin To Net: NetName=gnd Pin=R306-1
+Added Pin To Net: NetName=cell 1 input + Pin=R306-2
+Added Pin To Net: NetName=gnd Pin=R307-1
+Added Pin To Net: NetName=cell 2 input + Pin=R307-2
+Added Pin To Net: NetName=cell 3 input - Pin=R308-1
+Added Pin To Net: NetName=cell 3 output Pin=R308-2
+Added Pin To Net: NetName=cell 4 input - Pin=R309-1
+Added Pin To Net: NetName=cell 4 output Pin=R309-2
+Added Pin To Net: NetName=gnd Pin=R310-1
+Added Pin To Net: NetName=cell 3 input - Pin=R310-2
+Added Pin To Net: NetName=gnd Pin=R311-1
+Added Pin To Net: NetName=cell 4 input - Pin=R311-2
+Added Pin To Net: NetName=cell 3_f Pin=R312-1
+Added Pin To Net: NetName=cell 3 input + Pin=R312-2
+Added Pin To Net: NetName=cell 4_f Pin=R313-1
+Added Pin To Net: NetName=cell 4 input + Pin=R313-2
+Added Pin To Net: NetName=gnd Pin=R314-1
+Added Pin To Net: NetName=cell 3 input + Pin=R314-2
+Added Pin To Net: NetName=gnd Pin=R315-1
+Added Pin To Net: NetName=cell 4 input + Pin=R315-2
+Added Pin To Net: NetName=cell 5 input - Pin=R316-1
+Added Pin To Net: NetName=cell 5 output Pin=R316-2
+Added Pin To Net: NetName=cell 6 input - Pin=R317-1
+Added Pin To Net: NetName=cell 6 output Pin=R317-2
+Added Pin To Net: NetName=gnd Pin=R318-1
+Added Pin To Net: NetName=cell 5 input - Pin=R318-2
+Added Pin To Net: NetName=gnd Pin=R319-1
+Added Pin To Net: NetName=cell 6 input - Pin=R319-2
+Added Pin To Net: NetName=cell 5 input + Pin=R320-2
+Added Pin To Net: NetName=cell 6 input + Pin=R321-2
+Added Pin To Net: NetName=gnd Pin=R322-1
+Added Pin To Net: NetName=cell 5 input + Pin=R322-2
+Added Pin To Net: NetName=gnd Pin=R323-1
+Added Pin To Net: NetName=cell 6 input + Pin=R323-2
+Add Net: Net with name "cell 2_f" already exists
+Add Net: Net with name "cell 3_f" already exists
+Added Member To Class: ClassName=U_3_BMS Member=Component R300 47K
+Added Member To Class: ClassName=U_3_BMS Member=Component R301 47K
+Added Member To Class: ClassName=U_3_BMS Member=Component R302 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R303 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R304 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R305 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R306 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R307 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R308 47K
+Added Member To Class: ClassName=U_3_BMS Member=Component R309 47K
+Added Member To Class: ClassName=U_3_BMS Member=Component R310 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R311 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R312 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R313 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R314 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R315 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R316 47K
+Added Member To Class: ClassName=U_3_BMS Member=Component R317 47K
+Added Member To Class: ClassName=U_3_BMS Member=Component R318 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R319 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R320 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R321 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R322 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R323 3K9

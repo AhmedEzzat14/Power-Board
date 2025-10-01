@@ -1,0 +1,127 @@
+Add Component: Footprint Not Found CAP_2200uF_35V
+Add Component: Footprint Not Found CAP_2200uF_35V
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Pin To Net: Unknown Pin: Pin 100n-N
+Add Pin To Net: Unknown Pin: Pin 100n-P
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=gnd Pin=C?-1
+Added Pin To Net: NetName=gnd Pin=C?-1
+Added Pin To Net: NetName=gnd Pin=C?-1
+Add Pin To Net: Unknown Pin: Pin C?-N
+Add Pin To Net: Unknown Pin: Pin C?-P
+Add Pin To Net: Unknown Pin: Pin XT?-N
+Add Pin To Net: Unknown Pin: Pin XT?-N
+Add Pin To Net: Unknown Pin: Pin XT?-N
+Add Pin To Net: Unknown Pin: Pin XT?-N
+Add Pin To Net: Unknown Pin: Pin XT?-P
+Add Pin To Net: Unknown Pin: Pin XT?-P
+Add Pin To Net: Unknown Pin: Pin XT?-P
+Add Pin To Net: Unknown Pin: Pin XT?-P
+Add Net: Net with name "NetD?_K" already exists
+Add Net: Net with name "NetP?_1" already exists
+Add Net: Net with name "NetQ?_7" already exists
+Add Class Member: Failed to add class member : Component 100n CAP_2200uF_35V
+Added Member To Class: ClassName=3_BMS Member=Component ? 220K
+Added Member To Class: ClassName=3_BMS Member=Component ? 100K
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? DATA_PIN_HEADER_4_2.54m
+Added Member To Class: ClassName=3_BMS Member=Component ? 1206
+Added Member To Class: ClassName=3_BMS Member=Component ? 47K
+Added Member To Class: ClassName=3_BMS Member=Component ? 1206
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? 100K
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? 47K
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? 1206
+Added Member To Class: ClassName=3_BMS Member=Component ? 47K
+Added Member To Class: ClassName=3_BMS Member=Component ? DATA_PIN_HEADER_4_2.54m
+Added Member To Class: ClassName=3_BMS Member=Component ? 470K
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? 1206
+Added Member To Class: ClassName=3_BMS Member=Component ? 100K
+Added Member To Class: ClassName=3_BMS Member=Component ? DATA_PIN_HEADER_8_2.54m
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? 100K
+Added Member To Class: ClassName=3_BMS Member=Component ? 1206
+Added Member To Class: ClassName=3_BMS Member=Component ? 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component ? 1206
+Added Member To Class: ClassName=3_BMS Member=Component ? 47K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C? 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component D? GREEN
+Added Member To Class: ClassName=3_BMS Member=Component D? TVS-P6KE400A
+Added Member To Class: ClassName=3_BMS Member=Component D? TVS-P6KE400A
+Added Member To Class: ClassName=3_BMS Member=Component D? TVS-P6KE400A
+Added Member To Class: ClassName=3_BMS Member=Component D? TVS-P6KE400A
+Added Member To Class: ClassName=3_BMS Member=Component D? TVS-P6KE400A
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component P? P Mosfet
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component Q? 6N136SDM
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 270
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 2K2
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 2K2
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R? 270
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T? Terminal pin 6.3mm
+Added Member To Class: ClassName=3_BMS Member=Component U? LM2902N
+Added Member To Class: ClassName=3_BMS Member=Component U? LM2902N
+Added Member To Class: ClassName=3_BMS Member=Component U? LM2902N
+Add Class Member: Failed to add class member : Component XT? XT60-Male
+Add Class Member: Failed to add class member : Component XT? XT60-Male
+Add Class Member: Failed to add class member : Component XT? XT60-Male
+Add Class Member: Failed to add class member : Component XT? XT60-Male

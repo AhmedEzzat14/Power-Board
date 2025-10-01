@@ -1,0 +1,147 @@
+Removed Pin From Net: NetName=Reset Pin=U?-15
+Removed Member From Class: ClassName=2_CircuitBreaker Member=Q?
+Removed Member From Class: ClassName=2_CircuitBreaker Member=R?
+Removed Member From Class: ClassName=2_CircuitBreaker Member=SW?
+Removed Member From Class: ClassName=2_CircuitBreaker Member=U?
+Change Component Footprint: Designator=SW? Old Footprint=434121043816 New Footprint=434121043816
+Change Component Footprint: Designator=Q? Old Footprint=FP-709AC-MFG New Footprint=FP-709AC-MFG
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=D?(DATA_PIN_HEADER_2_2.54m)
+Added Component: Designator=N?(Mosfet)
+Added Component: Designator=R?(RES_0603)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=C?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-1
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=D?-2
+Added Pin To Net: NetName=Reset Pin=Q?-5
+Added Pin To Net: NetName=Reset Pin=R?-1
+Added Pin To Net: NetName=+5 Pin=C?-1
+Added Pin To Net: NetName=+5 Pin=Q?-8
+Added Pin To Net: NetName=+5 Pin=R?-2
+Added Net: Name=+5
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-1
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=D?-2
+Added Pin To Net: NetName=+12V_Load Pin=N?-2
+Added Net: Name=+12V_Load
+Added Pin To Net: NetName=+12V Pin=N?-3
+Added Net: Name=+12V
+Added Pin To Net: NetName=MCU_Signal Pin=Q?-2
+Added Pin To Net: NetName=MCU_Signal Pin=U?-19
+Added Net: Name=MCU_Signal
+Add Net: Net with name "NetD?_K" already exists
+Added Pin To Net: NetName=NetN?_1 Pin=N?-1
+Added Pin To Net: NetName=NetN?_1 Pin=Q?-6
+Added Pin To Net: NetName=NetN?_1 Pin=R?-1
+Added Net: Name=NetN?_1
+Added Pin To Net: NetName=NetQ?_7 Pin=Q?-7
+Added Pin To Net: NetName=NetQ?_7 Pin=R?-2
+Added Net: Name=NetQ?_7
+Added Pin To Net: NetName=Signal_GND Pin=Q?-3
+Added Pin To Net: NetName=Signal_GND Pin=U?-15
+Added Net: Name=Signal_GND
+Change Class Name : Old Net Name=2_CircuitBreaker New Net Name=1_Power
+Added Class: Name=2_CircuitBreaker
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m
+Added Member To Class: ClassName=1_Power Member=Component D? DATA_PIN_HEADER_2_2.54m

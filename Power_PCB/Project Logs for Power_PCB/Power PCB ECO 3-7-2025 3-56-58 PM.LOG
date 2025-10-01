@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=gnd Pin=Buck In-2
+Removed Pin From Net: NetName=+5 Pin=Buck Out-1
+Removed Pin From Net: NetName=gnd Pin=Buck Out-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=gnd Pin=C?-2
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=gnd Pin=R?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=gnd Pin=U?-6
+Removed Pin From Net: NetName=gnd Pin=U?-8
+Removed Member From Class: ClassName=U_5_Buck Member=Buck In
+Removed Member From Class: ClassName=U_5_Buck Member=Buck Out
+Removed Member From Class: ClassName=U_5_Buck Member=C?
+Removed Member From Class: ClassName=U_5_Buck Member=L?
+Removed Member From Class: ClassName=U_5_Buck Member=R?
+Removed Member From Class: ClassName=U_5_Buck Member=U?
+Added Component: Designator=C1(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(DIL14)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IR2112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-14 Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IR2112/Infineon%20Technologies/view-part/560530/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC(DIL14)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "IR2112"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-14 Infineon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/IR2112/Infineon%20Technologies/view-part/560530/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(INDAD1680W80L1200D650)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/B82145A1105J000/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "B82145A1105J000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/B82145A1105J000/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/B82145A1105J000/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=N1(Mosfet)
+Added Component: Designator=N2(Mosfet)
+Added Component: Designator=R1(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=C1-1
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Added Pin To Net: NetName=gnd Pin=IC1-2
+Added Pin To Net: NetName=gnd Pin=IC1-11
+Added Pin To Net: NetName=gnd Pin=IC-2
+Added Pin To Net: NetName=gnd Pin=IC-11
+Added Pin To Net: NetName=gnd Pin=N2-3
+Add Net: Net with name "+12" already exists
+Add Net: Net with name "cell 2_f" already exists
+Add Net: Net with name "cell 3_f" already exists
+Added Pin To Net: NetName=Mosfet_High Pin=U200-6
+Added Net: Name=Mosfet_High
+Add Net: Net with name "Mosfet_High" already exists
+Added Pin To Net: NetName=Mosfet_Low Pin=U200-7
+Added Net: Name=Mosfet_Low
+Add Net: Net with name "Mosfet_Low" already exists
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-2
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=NetIC1_1 Pin=R2-2
+Added Net: Name=NetIC1_1
+Added Pin To Net: NetName=NetIC_1 Pin=IC-1
+Added Pin To Net: NetName=NetIC_1 Pin=R1-1
+Added Net: Name=NetIC_1
+Added Pin To Net: NetName=NetL1_1 Pin=L1-1
+Added Pin To Net: NetName=NetL1_1 Pin=N1-3
+Added Pin To Net: NetName=NetL1_1 Pin=N2-2
+Added Net: Name=NetL1_1
+Added Pin To Net: NetName=NetN1_1 Pin=N1-1
+Added Pin To Net: NetName=NetN1_1 Pin=R1-2
+Added Net: Name=NetN1_1
+Added Pin To Net: NetName=NetN2_1 Pin=N2-1
+Added Pin To Net: NetName=NetN2_1 Pin=R2-1
+Added Net: Name=NetN2_1
+Added Member To Class: ClassName=U_5_Buck Member=Component C1 100n
+Added Member To Class: ClassName=U_5_Buck Member=Component IC1 IR2112
+Added Member To Class: ClassName=U_5_Buck Member=Component IC IR2112
+Added Member To Class: ClassName=U_5_Buck Member=Component L1 B82145A1105J000
+Added Member To Class: ClassName=U_5_Buck Member=Component N1 IRFB4110
+Added Member To Class: ClassName=U_5_Buck Member=Component N2 IRFB4110
+Added Member To Class: ClassName=U_5_Buck Member=Component R1 R0402
+Added Member To Class: ClassName=U_5_Buck Member=Component R2 R0402

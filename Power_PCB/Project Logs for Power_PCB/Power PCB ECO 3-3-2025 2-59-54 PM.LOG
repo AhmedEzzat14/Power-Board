@@ -1,0 +1,599 @@
+Removed Pin From Net: NetName=cell 1 Pin=?-1
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=cell 2 Pin=?-1
+Removed Pin From Net: NetName=cell 3 Pin=?-1
+Removed Pin From Net: NetName=cell 4 Pin=?-1
+Removed Pin From Net: NetName=cell 5 Pin=?-1
+Removed Pin From Net: NetName=cell 6 Pin=?-1
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Unknown Pin: Pin ?-3
+Remove Pin from Net: Unknown Pin: Pin ?-3
+Remove Pin from Net: Unknown Pin: Pin ?-3
+Remove Pin from Net: Unknown Pin: Pin ?-4
+Remove Pin from Net: Unknown Pin: Pin ?-4
+Remove Pin from Net: Unknown Pin: Pin ?-4
+Remove Pin from Net: Unknown Pin: Pin ?-5
+Remove Pin from Net: Unknown Pin: Pin ?-6
+Remove Pin from Net: Unknown Pin: Pin ?-7
+Remove Pin from Net: Unknown Pin: Pin ?-8
+Removed Pin From Net: NetName=gnd Pin=D?-A
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=cell 3 Pin=D?-C
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+5 Pin=U?-4
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=cell 2 input + Pin=U?-5
+Removed Pin From Net: NetName=cell 2 input - Pin=U?-6
+Removed Pin From Net: NetName=cell 2 output Pin=U?-7
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=gnd Pin=U?-11
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Member From Class: ClassName=1_Power Member=C?
+Removed Member From Class: ClassName=2_CircuitBreaker Member=D?
+Removed Member From Class: ClassName=3_BMS Member=D?
+Removed Member From Class: ClassName=2_CircuitBreaker Member=U?
+Removed Member From Class: ClassName=3_BMS Member=U?
+Change Component Designator: OldDesignator=? NewDesignator=301
+Change Component Designator: OldDesignator=? NewDesignator=302
+Change Component Designator: OldDesignator=? NewDesignator=303
+Change Component Designator: OldDesignator=? NewDesignator=304
+Change Component Designator: OldDesignator=? NewDesignator=305
+Change Component Designator: OldDesignator=? NewDesignator=306
+Change Component Designator: OldDesignator=? NewDesignator=307
+Change Component Designator: OldDesignator=? NewDesignator=309
+Change Component Designator: OldDesignator=? NewDesignator=310
+Change Component Designator: OldDesignator=? NewDesignator=311
+Change Component Designator: OldDesignator=? NewDesignator=312
+Change Component Designator: OldDesignator=? NewDesignator=314
+Change Component Designator: OldDesignator=? NewDesignator=315
+Change Component Designator: OldDesignator=? NewDesignator=316
+Change Component Designator: OldDesignator=? NewDesignator=317
+Change Component Designator: OldDesignator=? NewDesignator=318
+Change Component Designator: OldDesignator=? NewDesignator=319
+Change Component Designator: OldDesignator=? NewDesignator=320
+Change Component Designator: OldDesignator=? NewDesignator=321
+Change Component Designator: OldDesignator=? NewDesignator=322
+Change Component Designator: OldDesignator=? NewDesignator=323
+Change Component Designator: OldDesignator=? NewDesignator=324
+Change Component Designator: OldDesignator=? NewDesignator=325
+Change Component Designator: OldDesignator=? NewDesignator=326
+Change Component Designator: OldDesignator=C? NewDesignator=C200
+Change Component Designator: OldDesignator=C? NewDesignator=C201
+Change Component Designator: OldDesignator=C? NewDesignator=C202
+Change Component Designator: OldDesignator=C? NewDesignator=C203
+Change Component Designator: OldDesignator=D? NewDesignator=D200
+Change Component Designator: OldDesignator=D? NewDesignator=D201
+Change Component Designator: OldDesignator=OP ? NewDesignator=OP 300
+Change Component Designator: OldDesignator=P? NewDesignator=P200
+Change Component Designator: OldDesignator=P? NewDesignator=P201
+Change Component Designator: OldDesignator=Q? NewDesignator=Q200
+Change Component Designator: OldDesignator=Q? NewDesignator=Q201
+Change Component Designator: OldDesignator=R? NewDesignator=R200
+Change Component Designator: OldDesignator=R? NewDesignator=R201
+Change Component Designator: OldDesignator=R? NewDesignator=R202
+Change Component Designator: OldDesignator=R? NewDesignator=R203
+Change Component Designator: OldDesignator=R? NewDesignator=R204
+Change Component Designator: OldDesignator=R? NewDesignator=R205
+Change Component Designator: OldDesignator=R? NewDesignator=R206
+Change Component Designator: OldDesignator=SW? NewDesignator=SW200
+Change Component Designator: OldDesignator=T? NewDesignator=T100
+Change Component Designator: OldDesignator=T? NewDesignator=T101
+Change Component Designator: OldDesignator=T? NewDesignator=T102
+Change Component Designator: OldDesignator=T? NewDesignator=T103
+Change Component Designator: OldDesignator=T? NewDesignator=T104
+Change Component Designator: OldDesignator=T? NewDesignator=T105
+Change Component Designator: OldDesignator=T? NewDesignator=T106
+Change Component Designator: OldDesignator=T? NewDesignator=T107
+Change Component Designator: OldDesignator=T? NewDesignator=T108
+Change Component Designator: OldDesignator=T? NewDesignator=T109
+Change Component Designator: OldDesignator=T? NewDesignator=T110
+Change Component Designator: OldDesignator=T? NewDesignator=T111
+Change Component Designator: OldDesignator=T? NewDesignator=T112
+Change Component Designator: OldDesignator=T? NewDesignator=T113
+Change Component Designator: OldDesignator=T? NewDesignator=T114
+Change Component Designator: OldDesignator=T? NewDesignator=T115
+Change Component Designator: OldDesignator=T? NewDesignator=T116
+Change Component Designator: OldDesignator=T? NewDesignator=T117
+Change Component Designator: OldDesignator=T? NewDesignator=T118
+Change Component Designator: OldDesignator=T? NewDesignator=T119
+Change Component Designator: OldDesignator=T? NewDesignator=T120
+Change Component Designator: OldDesignator=T? NewDesignator=T121
+Change Component Designator: OldDesignator=T? NewDesignator=T122
+Change Component Designator: OldDesignator=T? NewDesignator=T123
+Change Component Designator: OldDesignator=T? NewDesignator=T124
+Change Component Designator: OldDesignator=T? NewDesignator=T125
+Change Component Designator: OldDesignator=T? NewDesignator=T126
+Change Component Designator: OldDesignator=T? NewDesignator=T127
+Change Component Designator: OldDesignator=T? NewDesignator=T128
+Change Component Designator: OldDesignator=T? NewDesignator=T129
+Change Component Designator: OldDesignator=T? NewDesignator=T130
+Change Component Designator: OldDesignator=T? NewDesignator=T131
+Change Component Designator: OldDesignator=T? NewDesignator=T132
+Change Component Designator: OldDesignator=T? NewDesignator=T133
+Change Component Designator: OldDesignator=T? NewDesignator=T134
+Change Component Designator: OldDesignator=T? NewDesignator=T135
+Change Component Designator: OldDesignator=T? NewDesignator=T136
+Change Component Designator: OldDesignator=T? NewDesignator=T137
+Change Component Designator: OldDesignator=T? NewDesignator=T138
+Change Component Designator: OldDesignator=T? NewDesignator=T139
+Change Component Designator: OldDesignator=T? NewDesignator=T140
+Change Component Designator: OldDesignator=T? NewDesignator=T141
+Change Component Designator: OldDesignator=T? NewDesignator=T142
+Change Component Designator: OldDesignator=T? NewDesignator=T143
+Change Component Designator: OldDesignator=T? NewDesignator=T144
+Change Component Designator: OldDesignator=T? NewDesignator=T145
+Change Component Designator: OldDesignator=T? NewDesignator=T146
+Change Component Designator: OldDesignator=T? NewDesignator=T147
+Change Component Designator: OldDesignator=T? NewDesignator=T148
+Change Component Designator: OldDesignator=T? NewDesignator=T149
+Change Component Designator: OldDesignator=T? NewDesignator=T150
+Change Component Designator: OldDesignator=T? NewDesignator=T151
+Change Component Designator: OldDesignator=U? NewDesignator=U200
+Change Component Designator: OldDesignator=U? NewDesignator=U300
+Added Component: Designator=C100(C0805)
+Added Component: Designator=C101(C0805)
+Added Component: Designator=C400(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C401(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C402(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C403(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C404(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C405(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C406(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C407(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C408(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C409(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C410(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C411(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C412(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C413(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C414(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C415(CAP_1206)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D400(TVS)
+Added Component: Designator=D401(TVS)
+Added Component: Designator=D402(TVS)
+Added Component: Designator=D403(TVS)
+Added Component: Designator=D404(TVS)
+Added Component: Designator=D405(TVS)
+Added Component: Designator=D406(TVS)
+Added Component: Designator=D407(TVS)
+Added Component: Designator=FB400(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB401(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB402(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB403(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB404(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB405(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB406(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=FB407(FB_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J300(JST_S4B-XH-A-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S4B-XH-A-1/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S4B-XH-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S4B-XH-A-1/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J301(JST_S4B-XH-A-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S4B-XH-A-1/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S4B-XH-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S4B-XH-A-1/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J302(JST_S8B-XH-A-1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/S8B-XH-A-1/JST+Sales+America+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "JST Sales"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "S8B-XH-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/S8B-XH-A-1/JST+Sales+America+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT100(XT60-Male)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT101(XT60-Male)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT102(XT60-Male)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT103(XT60-Male)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=+5 Pin=C200-1
+Added Pin To Net: NetName=gnd Pin=C201-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Added Pin To Net: NetName=gnd Pin=C400-1
+Added Pin To Net: NetName=cell 1 Pin=C400-2
+Added Pin To Net: NetName=gnd Pin=C401-1
+Added Pin To Net: NetName=gnd Pin=C402-1
+Added Pin To Net: NetName=cell 2 Pin=C402-2
+Added Pin To Net: NetName=gnd Pin=C403-1
+Added Pin To Net: NetName=gnd Pin=C404-1
+Added Pin To Net: NetName=cell 3 Pin=C404-2
+Added Pin To Net: NetName=gnd Pin=C405-1
+Added Pin To Net: NetName=gnd Pin=C406-1
+Added Pin To Net: NetName=cell 4 Pin=C406-2
+Added Pin To Net: NetName=gnd Pin=C407-1
+Added Pin To Net: NetName=gnd Pin=C408-1
+Added Pin To Net: NetName=cell 5 Pin=C408-2
+Added Pin To Net: NetName=gnd Pin=C409-1
+Added Pin To Net: NetName=gnd Pin=C410-1
+Added Pin To Net: NetName=cell 6 Pin=C410-2
+Added Pin To Net: NetName=gnd Pin=C411-1
+Added Pin To Net: NetName=gnd Pin=C412-1
+Added Pin To Net: NetName=gnd Pin=C413-1
+Added Pin To Net: NetName=+12 Pin=C413-2
+Added Pin To Net: NetName=gnd Pin=C414-1
+Added Pin To Net: NetName=gnd Pin=C415-1
+Added Pin To Net: NetName=gnd Pin=D400-A
+Added Pin To Net: NetName=cell 1 Pin=D400-C
+Added Pin To Net: NetName=gnd Pin=D401-A
+Added Pin To Net: NetName=cell 4 Pin=D401-C
+Added Pin To Net: NetName=gnd Pin=D402-A
+Added Pin To Net: NetName=cell 2 Pin=D402-C
+Added Pin To Net: NetName=gnd Pin=D403-A
+Added Pin To Net: NetName=cell 5 Pin=D403-C
+Added Pin To Net: NetName=gnd Pin=D404-A
+Added Pin To Net: NetName=cell 3 Pin=D404-C
+Added Pin To Net: NetName=gnd Pin=D405-A
+Added Pin To Net: NetName=cell 6 Pin=D405-C
+Added Pin To Net: NetName=gnd Pin=D406-A
+Added Pin To Net: NetName=gnd Pin=D407-A
+Added Pin To Net: NetName=cell 1 Pin=FB400-1
+Added Pin To Net: NetName=cell 2 Pin=FB401-1
+Added Pin To Net: NetName=cell 3 Pin=FB402-1
+Added Pin To Net: NetName=cell 4 Pin=FB403-1
+Added Pin To Net: NetName=cell 5 Pin=FB404-1
+Added Pin To Net: NetName=cell 6 Pin=FB405-1
+Added Pin To Net: NetName=+12 Pin=FB406-2
+Added Pin To Net: NetName=gnd Pin=J300-1
+Added Pin To Net: NetName=cell 1 Pin=J300-2
+Added Pin To Net: NetName=cell 2 Pin=J300-3
+Added Pin To Net: NetName=cell 3 Pin=J300-4
+Added Pin To Net: NetName=gnd Pin=J301-1
+Added Pin To Net: NetName=cell 1 Pin=J301-2
+Added Pin To Net: NetName=cell 2 Pin=J301-3
+Added Pin To Net: NetName=cell 3 Pin=J301-4
+Added Pin To Net: NetName=cell 1 output Pin=J302-1
+Added Pin To Net: NetName=cell 2 output Pin=J302-2
+Added Pin To Net: NetName=cell 3 output Pin=J302-3
+Added Pin To Net: NetName=cell 4 output Pin=J302-4
+Added Pin To Net: NetName=cell 5 output Pin=J302-5
+Added Pin To Net: NetName=cell 6 output Pin=J302-6
+Added Pin To Net: NetName=+5 Pin=J302-7
+Added Pin To Net: NetName=gnd Pin=J302-8
+Added Pin To Net: NetName=+12 Pin=P200-3
+Added Pin To Net: NetName=cell 1 output Pin=U300-1
+Added Pin To Net: NetName=cell 1 input - Pin=U300-2
+Added Pin To Net: NetName=cell 1 input + Pin=U300-3
+Added Pin To Net: NetName=cell 2 input + Pin=U300-5
+Added Pin To Net: NetName=cell 2 input - Pin=U300-6
+Added Pin To Net: NetName=cell 2 output Pin=U300-7
+Added Pin To Net: NetName=cell 3 output Pin=U300-8
+Added Pin To Net: NetName=cell 3 input - Pin=U300-9
+Added Pin To Net: NetName=cell 3 input + Pin=U300-10
+Added Pin To Net: NetName=gnd Pin=XT101-N
+Added Pin To Net: NetName=gnd Pin=XT103-N
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC203_1
+Change Net Name : Old Net Name=NetD?_K New Net Name=NetD200_K
+Change Net Name : Old Net Name=NetP?_1 New Net Name=NetP200_1
+Change Net Name : Old Net Name=NetQ?_7 New Net Name=NetQ200_7
+Added Pin To Net: NetName=+12_unfiltered Pin=C100-1
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=+12_unfiltered Pin=C412-2
+Added Pin To Net: NetName=+12_unfiltered Pin=C414-2
+Added Pin To Net: NetName=+12_unfiltered Pin=D406-C
+Added Pin To Net: NetName=+12_unfiltered Pin=D407-C
+Added Pin To Net: NetName=+12_unfiltered Pin=FB406-1
+Added Pin To Net: NetName=+12_unfiltered Pin=FB407-1
+Added Pin To Net: NetName=+12_unfiltered Pin=XT100-N
+Added Pin To Net: NetName=+12_unfiltered Pin=XT100-P
+Added Pin To Net: NetName=+12_unfiltered Pin=XT101-P
+Added Pin To Net: NetName=+12_unfiltered Pin=XT102-N
+Added Pin To Net: NetName=+12_unfiltered Pin=XT102-P
+Added Pin To Net: NetName=+12_unfiltered Pin=XT103-P
+Added Net: Name=+12_unfiltered
+Add Net: Net with name "+24" already exists
+Added Pin To Net: NetName=cell 1_f Pin=305-1
+Added Pin To Net: NetName=cell 1_f Pin=C401-2
+Added Pin To Net: NetName=cell 1_f Pin=FB400-2
+Added Net: Name=cell 1_f
+Added Pin To Net: NetName=cell 2_f Pin=306-1
+Added Pin To Net: NetName=cell 2_f Pin=C403-2
+Added Pin To Net: NetName=cell 2_f Pin=FB401-2
+Added Net: Name=cell 2_f
+Added Pin To Net: NetName=cell 3_f Pin=315-1
+Added Pin To Net: NetName=cell 3_f Pin=C405-2
+Added Pin To Net: NetName=cell 3_f Pin=FB402-2
+Added Net: Name=cell 3_f
+Added Pin To Net: NetName=cell 4_f Pin=316-1
+Added Net: Name=cell 4_f
+Add Net: Net with name "cell 4_f" already exists
+Added Pin To Net: NetName=cell 5_f Pin=323-1
+Added Pin To Net: NetName=cell 5_f Pin=C409-2
+Added Pin To Net: NetName=cell 5_f Pin=FB404-2
+Added Net: Name=cell 5_f
+Added Pin To Net: NetName=cell 6_f Pin=324-1
+Added Pin To Net: NetName=cell 6_f Pin=C411-2
+Added Pin To Net: NetName=cell 6_f Pin=FB405-2
+Added Net: Name=cell 6_f
+Added Pin To Net: NetName=NetD201_K Pin=D201-K
+Added Pin To Net: NetName=NetD201_K Pin=R205-1
+Added Net: Name=NetD201_K
+Added Pin To Net: NetName=NetP201_1 Pin=P201-1
+Added Pin To Net: NetName=NetP201_1 Pin=Q201-6
+Added Pin To Net: NetName=NetP201_1 Pin=R201-1
+Added Net: Name=NetP201_1
+Added Pin To Net: NetName=NetQ201_7 Pin=Q201-7
+Added Pin To Net: NetName=NetQ201_7 Pin=R203-2
+Added Net: Name=NetQ201_7
+Added Class: Name=4_Protection
+Added Member To Class: ClassName=3_BMS Member=Component 301 47K
+Added Member To Class: ClassName=3_BMS Member=Component 302 47K
+Added Member To Class: ClassName=3_BMS Member=Component 303 100K
+Added Member To Class: ClassName=3_BMS Member=Component 304 100K
+Added Member To Class: ClassName=3_BMS Member=Component 305 470K
+Added Member To Class: ClassName=3_BMS Member=Component 306 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component 307 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component 309 1206
+Added Member To Class: ClassName=3_BMS Member=Component 310 47K
+Added Member To Class: ClassName=3_BMS Member=Component 311 220K
+Added Member To Class: ClassName=3_BMS Member=Component 312 100K
+Added Member To Class: ClassName=3_BMS Member=Component 314 1206
+Added Member To Class: ClassName=3_BMS Member=Component 315 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component 316 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component 318 1206
+Added Member To Class: ClassName=3_BMS Member=Component 319 47K
+Added Member To Class: ClassName=3_BMS Member=Component 320 1206
+Added Member To Class: ClassName=3_BMS Member=Component 321 100K
+Added Member To Class: ClassName=3_BMS Member=Component 322 1.2M
+Added Member To Class: ClassName=3_BMS Member=Component 323 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component 324 3.9K
+Added Member To Class: ClassName=3_BMS Member=Component 325 1206
+Added Member To Class: ClassName=3_BMS Member=Component 326 3.9K
+Added Member To Class: ClassName=1_Power Member=Component C100 100n
+Added Member To Class: ClassName=1_Power Member=Component C101 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C200 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C201 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C202 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component D200 GREEN
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component D201 RED
+Added Member To Class: ClassName=3_BMS Member=Component J300 S4B-XH-A-1
+Added Member To Class: ClassName=3_BMS Member=Component J301 S4B-XH-A-1
+Added Member To Class: ClassName=3_BMS Member=Component J302 S8B-XH-A-1
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component P200 P Mosfet
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component Q200 6N136SDM
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R200 2K2
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R202 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R203 10K
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R204 270
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R205 270
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R206 10K
+Added Member To Class: ClassName=1_Power Member=Component T100 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T101 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T102 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T103 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T104 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T105 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T106 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T107 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T108 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T109 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T110 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T111 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T112 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T113 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T114 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T116 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T117 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T118 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T119 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T120 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T121 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T122 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T123 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T124 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T125 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T126 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T127 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T128 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T129 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T130 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T131 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T132 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T133 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T134 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T135 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T136 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T137 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T138 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T139 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T140 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T141 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T142 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T143 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T144 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T145 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T146 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T147 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T148 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T149 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T150 Terminal pin 6.3mm
+Added Member To Class: ClassName=1_Power Member=Component T151 Terminal pin 6.3mm
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component U200 ESP8266-12E/ESP-12E
+Added Member To Class: ClassName=3_BMS Member=Component U300 LM2902N
+Added Member To Class: ClassName=1_Power Member=Component XT100 XT60-Male
+Added Member To Class: ClassName=1_Power Member=Component XT101 XT60-Male
+Added Member To Class: ClassName=1_Power Member=Component XT102 XT60-Male
+Added Member To Class: ClassName=1_Power Member=Component XT103 XT60-Male

@@ -1,0 +1,302 @@
+Removed Pin From Net: NetName=gnd Pin=R303-1
+Removed Pin From Net: NetName=cell 2 input - Pin=R303-2
+Removed Pin From Net: NetName=cell 2_f Pin=R305-1
+Removed Pin From Net: NetName=cell 2 input + Pin=R305-2
+Removed Pin From Net: NetName=gnd Pin=R318-1
+Removed Pin From Net: NetName=cell 5 input - Pin=R318-2
+Removed Pin From Net: NetName=cell 5 input + Pin=R320-2
+Removed Pin From Net: NetName=cell 1 output Pin=U300-1
+Removed Pin From Net: NetName=cell 1 input - Pin=U300-2
+Removed Pin From Net: NetName=cell 1 input + Pin=U300-3
+Removed Pin From Net: NetName=+5 Pin=U300-4
+Removed Pin From Net: NetName=cell 2 input + Pin=U300-5
+Removed Pin From Net: NetName=cell 2 input - Pin=U300-6
+Removed Pin From Net: NetName=cell 2 output Pin=U300-7
+Removed Pin From Net: NetName=cell 3 output Pin=U300-8
+Removed Pin From Net: NetName=cell 3 input - Pin=U300-9
+Removed Pin From Net: NetName=cell 3 input + Pin=U300-10
+Removed Pin From Net: NetName=gnd Pin=U300-11
+Removed Pin From Net: NetName=cell 4 input + Pin=U300-12
+Removed Pin From Net: NetName=cell 4 input - Pin=U300-13
+Removed Pin From Net: NetName=cell 4 output Pin=U300-14
+Change Component Footprint: Designator=R304 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R313 Old Footprint=RES_0603 New Footprint=RES_0805
+Change Component Footprint: Designator=R306 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R307 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R314 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R315 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R322 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R323 Old Footprint=RES_0805 New Footprint=RES_0603
+Change Component Footprint: Designator=R303 Old Footprint=RES_1206 New Footprint=RES_0603
+Change Component Footprint: Designator=R318 Old Footprint=RES_1206 New Footprint=RES_0603
+Change Component Footprint: Designator=R302 Old Footprint=RES_1206 New Footprint=RES_0805
+Change Component Footprint: Designator=R311 Old Footprint=RES_1206 New Footprint=RES_0805
+Change Component Comment : Designator=R306 Old Comment=3K9 New Comment=220K
+Change Component Comment : Designator=R307 Old Comment=3K9 New Comment=220K
+Change Component Comment : Designator=R314 Old Comment=3K9 New Comment=220K
+Change Component Comment : Designator=R315 Old Comment=3K9 New Comment=220K
+Change Component Comment : Designator=R322 Old Comment=3K9 New Comment=220K
+Change Component Comment : Designator=R323 Old Comment=3K9 New Comment=220K
+Change Component Comment : Designator=R304 Old Comment=3K9 New Comment=470K
+Change Component Comment : Designator=R313 Old Comment=3K9 New Comment=470K
+Change Component Comment : Designator=R305 Old Comment=3K9 New Comment=680K
+Change Component Comment : Designator=R320 Old Comment=3K9 New Comment=680K
+Change Component Comment : Designator=R300 Old Comment=47K New Comment=220K
+Change Component Comment : Designator=R301 Old Comment=47K New Comment=220K
+Change Component Comment : Designator=R308 Old Comment=47K New Comment=220K
+Change Component Comment : Designator=R309 Old Comment=47K New Comment=220K
+Change Component Comment : Designator=R316 Old Comment=47K New Comment=220K
+Change Component Comment : Designator=R317 Old Comment=47K New Comment=220K
+Change Component Comment : Designator=R302 Old Comment=100K New Comment=470K
+Change Component Comment : Designator=R311 Old Comment=100K New Comment=470K
+Change Component Comment : Designator=R303 Old Comment=100K New Comment=680K
+Change Component Comment : Designator=R318 Old Comment=100K New Comment=680K
+Added Component: Designator=Buck In(691102710002)
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "8917706"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.0038mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "11.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "22AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "14AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "22AWG"; VariantName = "[No Variations]"
+Added Component: Designator=Buck Out(691102710002)
+Add component (AddParameter): Name = "Color"; Value = "Blue"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "15A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "13.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "8917706"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.0038mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plating"; Value = "Steel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stripping Length"; Value = "-6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "11.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Max)"; Value = "22AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge (Min)"; Value = "14AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire/Cable Gauge"; Value = "22AWG"; VariantName = "[No Variations]"
+Added Component: Designator=OP 301(TL072)
+Added Component: Designator=OP 302(TL072)
+Added Component: Designator=U(TO255P1020X450X1968-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LD1117AV33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LD1117AV33/STMicroelectronics/view-part/486946/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=gnd Pin=Buck In-2
+Added Pin To Net: NetName=+5 Pin=Buck Out-1
+Added Pin To Net: NetName=gnd Pin=Buck Out-2
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C200-1
+Added Pin To Net: NetName=gnd Pin=C201-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=cell 3 output Pin=OP 301-1
+Added Pin To Net: NetName=cell 3 input - Pin=OP 301-2
+Added Pin To Net: NetName=cell 3 input + Pin=OP 301-3
+Added Pin To Net: NetName=gnd Pin=OP 301-4
+Added Pin To Net: NetName=cell 4 input + Pin=OP 301-5
+Added Pin To Net: NetName=cell 4 input - Pin=OP 301-6
+Added Pin To Net: NetName=cell 4 output Pin=OP 301-7
+Added Pin To Net: NetName=+5 Pin=OP 301-8
+Added Pin To Net: NetName=cell 1 output Pin=OP 302-1
+Added Pin To Net: NetName=cell 1 input - Pin=OP 302-2
+Added Pin To Net: NetName=cell 1 input + Pin=OP 302-3
+Added Pin To Net: NetName=gnd Pin=OP 302-4
+Added Pin To Net: NetName=cell 2 input + Pin=OP 302-5
+Added Pin To Net: NetName=cell 2 input - Pin=OP 302-6
+Added Pin To Net: NetName=cell 2 output Pin=OP 302-7
+Added Pin To Net: NetName=+5 Pin=OP 302-8
+Added Pin To Net: NetName=cell 2 input - Pin=R303-1
+Added Pin To Net: NetName=gnd Pin=R303-2
+Added Pin To Net: NetName=cell 2 input + Pin=R305-1
+Added Pin To Net: NetName=cell 2_f Pin=R305-2
+Added Pin To Net: NetName=cell 5 input - Pin=R318-1
+Added Pin To Net: NetName=gnd Pin=R318-2
+Added Pin To Net: NetName=cell 5 input + Pin=R320-1
+Added Pin To Net: NetName=gnd Pin=U-1
+Added Pin To Net: NetName=+3V3 Pin=U-2
+Added Pin To Net: NetName=+5 Pin=U-3
+Add Net: Net with name "+12" already exists
+Add Net: Net with name "cell 2_f" already exists
+Add Net: Net with name "cell 3_f" already exists
+Added Class: Name=U_5_Buck
+Added Member To Class: ClassName=U_1_Power Member=Component C100 100n
+Added Member To Class: ClassName=U_1_Power Member=Component C101 100n
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component C200 100n
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component C201 100n
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component C202 100n
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component C203 100n
+Added Member To Class: ClassName=U_4_Protection Member=Component C400 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C401 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C402 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C403 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C404 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C405 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C406 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C407 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C408 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C409 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C410 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C411 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C412 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C413 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C414 2u2
+Added Member To Class: ClassName=U_4_Protection Member=Component C415 2u2
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component D200 GREEN
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component D201 RED
+Added Member To Class: ClassName=U_4_Protection Member=Component D400 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D401 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D402 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D403 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D404 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D405 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D406 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component D407 TVS-P6KE400A
+Added Member To Class: ClassName=U_4_Protection Member=Component FB400 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB401 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB402 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB403 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB404 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB405 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB406 120R
+Added Member To Class: ClassName=U_4_Protection Member=Component FB407 120R
+Added Member To Class: ClassName=U_3_BMS Member=Component J300 S4B-XH-A-1
+Added Member To Class: ClassName=U_3_BMS Member=Component J301 S4B-XH-A-1
+Added Member To Class: ClassName=U_3_BMS Member=Component J302 S8B-XH-A-1
+Added Member To Class: ClassName=U_3_BMS Member=Component OP 300 Opamp_TL072
+Added Member To Class: ClassName=U_3_BMS Member=Component OP 301 Opamp_TL072
+Added Member To Class: ClassName=U_3_BMS Member=Component OP 302 Opamp_TL072
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component P200 P Mosfet
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component P201 P Mosfet
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component Q200 6N136SDM
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component Q201 6N136SDM
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R200 2K2
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R201 2K2
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R202 10K
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R203 10K
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R204 270
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R205 270
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R206 10K
+Added Member To Class: ClassName=U_3_BMS Member=Component R300 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R301 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R302 470K
+Added Member To Class: ClassName=U_3_BMS Member=Component R303 680K
+Added Member To Class: ClassName=U_3_BMS Member=Component R304 470K
+Added Member To Class: ClassName=U_3_BMS Member=Component R305 680K
+Added Member To Class: ClassName=U_3_BMS Member=Component R306 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R307 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R308 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R309 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R310 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R311 470K
+Added Member To Class: ClassName=U_3_BMS Member=Component R312 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R313 470K
+Added Member To Class: ClassName=U_3_BMS Member=Component R314 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R315 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R316 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R317 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R318 680K
+Added Member To Class: ClassName=U_3_BMS Member=Component R319 100K
+Added Member To Class: ClassName=U_3_BMS Member=Component R320 680K
+Added Member To Class: ClassName=U_3_BMS Member=Component R321 3K9
+Added Member To Class: ClassName=U_3_BMS Member=Component R322 220K
+Added Member To Class: ClassName=U_3_BMS Member=Component R323 220K
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component SW200
+Added Member To Class: ClassName=U_1_Power Member=Component T100 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T101 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T102 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T103 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T104 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T105 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T106 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T107 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T108 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T109 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T110 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T111 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T112 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T113 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T114 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T115 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T116 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T117 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T118 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T119 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T120 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T121 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T122 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T123 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T124 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T125 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T126 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T127 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T128 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T129 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T130 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T131 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T132 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T133 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T134 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T135 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T136 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T137 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T138 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T139 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T140 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T141 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T142 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T143 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T144 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T145 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T146 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T147 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T148 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T149 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T150 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T151 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component U200 ESP8266-12E/ESP-12E
+Added Member To Class: ClassName=U_1_Power Member=Component XT100 XT60-Male
+Added Member To Class: ClassName=U_1_Power Member=Component XT101 XT60-Male
+Added Member To Class: ClassName=U_1_Power Member=Component XT102 XT60-Male
+Added Member To Class: ClassName=U_1_Power Member=Component XT103 XT60-Male

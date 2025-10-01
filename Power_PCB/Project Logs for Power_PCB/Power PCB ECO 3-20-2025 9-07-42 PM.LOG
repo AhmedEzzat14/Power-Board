@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=gnd Pin=C401-1
+Removed Pin From Net: NetName=gnd Pin=C403-1
+Removed Pin From Net: NetName=gnd Pin=C405-1
+Removed Pin From Net: NetName=gnd Pin=C407-1
+Removed Pin From Net: NetName=gnd Pin=C409-1
+Removed Pin From Net: NetName=gnd Pin=C411-1
+Removed Pin From Net: NetName=gnd Pin=C413-1
+Removed Pin From Net: NetName=+12 Pin=C413-2
+Removed Pin From Net: NetName=gnd Pin=C415-1
+Removed Pin From Net: NetName=cell 1 Pin=FB400-1
+Removed Pin From Net: NetName=cell 2 Pin=FB401-1
+Removed Pin From Net: NetName=cell 3 Pin=FB402-1
+Removed Pin From Net: NetName=cell 4 Pin=FB403-1
+Removed Pin From Net: NetName=cell 5 Pin=FB404-1
+Removed Pin From Net: NetName=cell 6 Pin=FB405-1
+Removed Pin From Net: NetName=+12_unfiltered Pin=FB406-1
+Removed Pin From Net: NetName=+12 Pin=FB406-2
+Removed Pin From Net: NetName=+12_unfiltered Pin=FB407-1
+Removed Pin From Net: NetName=+12 Pin=P200-3
+Removed Member From Class: ClassName=U_4_Protection Member=C401
+Removed Member From Class: ClassName=U_4_Protection Member=C403
+Removed Member From Class: ClassName=U_4_Protection Member=C405
+Removed Member From Class: ClassName=U_4_Protection Member=C407
+Removed Member From Class: ClassName=U_4_Protection Member=C409
+Removed Member From Class: ClassName=U_4_Protection Member=C411
+Removed Member From Class: ClassName=U_4_Protection Member=C413
+Removed Member From Class: ClassName=U_4_Protection Member=C415
+Removed Member From Class: ClassName=U_4_Protection Member=FB400
+Removed Member From Class: ClassName=U_4_Protection Member=FB401
+Removed Member From Class: ClassName=U_4_Protection Member=FB402
+Removed Member From Class: ClassName=U_4_Protection Member=FB403
+Removed Member From Class: ClassName=U_4_Protection Member=FB404
+Removed Member From Class: ClassName=U_4_Protection Member=FB405
+Removed Member From Class: ClassName=U_4_Protection Member=FB406
+Removed Member From Class: ClassName=U_4_Protection Member=FB407
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=+12 Pin=IC1-3
+Added Pin To Net: NetName=+12 Pin=IC-3
+Added Pin To Net: NetName=+12 Pin=N1-2
+Added Pin To Net: NetName=+12_unfiltered Pin=P200-3
+Added Pin To Net: NetName=+12_unfiltered Pin=P201-3
+Added Pin To Net: NetName=cell 1 Pin=R304-1
+Added Pin To Net: NetName=cell 4 Pin=R305-2
+Added Pin To Net: NetName=cell 6 Pin=R312-1
+Added Pin To Net: NetName=cell 5 Pin=R313-1
+Added Pin To Net: NetName=cell 3 Pin=R320-2
+Added Pin To Net: NetName=cell 2 Pin=R321-1
+Change Net Name : Old Net Name=cell 4 New Net Name=cell 2_f
+Change Net Name : Old Net Name=cell 5 New Net Name=cell 4_f
+Change Net Name : Old Net Name=cell 6 New Net Name=cell 3_f
+Add Net: Net with name "Mosfet_High" already exists
+Add Net: Net with name "Mosfet_Low" already exists

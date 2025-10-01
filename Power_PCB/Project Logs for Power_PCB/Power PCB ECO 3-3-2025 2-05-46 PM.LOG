@@ -1,0 +1,43 @@
+Add Component: Footprint Not Found CAP_2200uF_35V
+Add Component: Footprint Not Found CAP_2200uF_35V
+Added Component: Designator=XT100(XT60-Male)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=XT102(XT60-Male)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AMASS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "XT60-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/XT60-M/AMASS/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 100n-N
+Add Pin To Net: Unknown Pin: Pin 100n-P
+Add Pin To Net: Unknown Pin: Pin C100-N
+Add Pin To Net: Unknown Pin: Pin C100-P
+Added Pin To Net: NetName=gnd Pin=C200-1
+Added Pin To Net: NetName=+5 Pin=C201-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=+12_unfiltered Pin=XT100-N
+Added Pin To Net: NetName=+24_unfiltered Pin=XT100-P
+Added Pin To Net: NetName=+12_unfiltered Pin=XT102-N
+Added Pin To Net: NetName=+24_unfiltered Pin=XT102-P
+Add Net: Net with name "+24" already exists
+Add Net: Net with name "cell 1" already exists
+Add Net: Net with name "cell 2" already exists
+Add Net: Net with name "cell 3" already exists
+Add Net: Net with name "cell 4" already exists
+Add Net: Net with name "cell 5" already exists
+Add Net: Net with name "cell 6" already exists
+Add Class Member: Failed to add class member : Component 100n CAP_2200uF_35V
+Add Class Member: Failed to add class member : Component C100 CAP_2200uF_35V
+Added Member To Class: ClassName=1_Power Member=Component XT100 XT60-Male
+Added Member To Class: ClassName=1_Power Member=Component XT102 XT60-Male

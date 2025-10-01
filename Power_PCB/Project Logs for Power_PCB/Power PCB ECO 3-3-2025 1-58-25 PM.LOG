@@ -1,0 +1,40 @@
+Add Component: Footprint Not Found CAP_2200uF_35V
+Add Component: Footprint Not Found CAP_2200uF_35V
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Component: Footprint Not Found XT60-Male
+Add Pin To Net: Unknown Pin: Pin 100n-N
+Add Pin To Net: Unknown Pin: Pin 100n-P
+Add Pin To Net: Unknown Pin: Pin C100-N
+Add Pin To Net: Unknown Pin: Pin C100-P
+Added Pin To Net: NetName=+5 Pin=C200-1
+Added Pin To Net: NetName=gnd Pin=C201-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Add Pin To Net: Unknown Pin: Pin XT100-N
+Add Pin To Net: Unknown Pin: Pin XT100-P
+Add Pin To Net: Unknown Pin: Pin XT101-N
+Add Pin To Net: Unknown Pin: Pin XT101-P
+Add Pin To Net: Unknown Pin: Pin XT102-N
+Add Pin To Net: Unknown Pin: Pin XT102-P
+Add Pin To Net: Unknown Pin: Pin XT103-N
+Add Pin To Net: Unknown Pin: Pin XT103-P
+Add Net: Net with name "+24" already exists
+Add Net: Net with name "cell 1" already exists
+Add Net: Net with name "cell 2" already exists
+Add Net: Net with name "cell 3" already exists
+Add Net: Net with name "cell 4" already exists
+Add Net: Net with name "cell 5" already exists
+Add Net: Net with name "cell 6" already exists
+Add Class Member: Failed to add class member : Component 100n CAP_2200uF_35V
+Added Member To Class: ClassName=3_BMS Member=Component 325 1206
+Add Class Member: Failed to add class member : Component C100 CAP_2200uF_35V
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component C201 100n
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component Q200 6N136SDM
+Added Member To Class: ClassName=2_CircuitBreaker Member=Component R204 270
+Added Member To Class: ClassName=1_Power Member=Component T111 Terminal pin 6.3mm
+Add Class Member: Failed to add class member : Component XT100 XT60-Male
+Add Class Member: Failed to add class member : Component XT101 XT60-Male
+Add Class Member: Failed to add class member : Component XT102 XT60-Male
+Add Class Member: Failed to add class member : Component XT103 XT60-Male

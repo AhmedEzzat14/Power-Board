@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=SW200 Old Footprint=434121043816 New Footprint=434121043816
+Change Component Footprint: Designator=Q200 Old Footprint=FP-709AC-MFG New Footprint=FP-709AC-MFG
+Change Component Footprint: Designator=Q201 Old Footprint=FP-709AC-MFG New Footprint=FP-709AC-MFG
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=+5 Pin=C200-1
+Added Pin To Net: NetName=+5 Pin=C201-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Add Net: Net with name "+24" already exists
+Add Net: Net with name "cell 4_f" already exists

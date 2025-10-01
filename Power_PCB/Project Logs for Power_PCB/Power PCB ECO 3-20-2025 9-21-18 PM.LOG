@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=+12V_Load Pin=T101-1
+Removed Pin From Net: NetName=+12V_Load Pin=T101-2
+Removed Pin From Net: NetName=+12V_Load Pin=T103-1
+Removed Pin From Net: NetName=+12V_Load Pin=T103-2
+Removed Pin From Net: NetName=+12V_Load Pin=T104-1
+Removed Pin From Net: NetName=+12V_Load Pin=T104-2
+Removed Pin From Net: NetName=+12V_Load Pin=T106-1
+Removed Pin From Net: NetName=+12V_Load Pin=T106-2
+Removed Pin From Net: NetName=+12V_Load Pin=T107-1
+Removed Pin From Net: NetName=+12V_Load Pin=T107-2
+Removed Pin From Net: NetName=+12V_Load Pin=T110-1
+Removed Pin From Net: NetName=+12V_Load Pin=T110-2
+Removed Member From Class: ClassName=U_1_Power Member=T107
+Removed Member From Class: ClassName=U_1_Power Member=T110
+Change Component Designator: OldDesignator=*? NewDesignator=*200
+Change Component Designator: OldDesignator=R? NewDesignator=R200
+Change Component Designator: OldDesignator=R? NewDesignator=R201
+Added Component: Designator=T101(Terminal pin 6.3mm)
+Added Component: Designator=T102(Terminal pin 6.3mm)
+Added Component: Designator=T103(Terminal pin 6.3mm)
+Added Component: Designator=T104(Terminal pin 6.3mm)
+Added Component: Designator=T105(Terminal pin 6.3mm)
+Added Component: Designator=T106(Terminal pin 6.3mm)
+Added Pin To Net: NetName=+12_unfiltered Pin=C101-1
+Added Pin To Net: NetName=+3V3 Pin=C202-1
+Added Pin To Net: NetName=gnd Pin=C203-1
+Added Pin To Net: NetName=+12V_Load Pin=T101-1
+Added Pin To Net: NetName=+12V_Load Pin=T101-2
+Added Pin To Net: NetName=+12V_Load Pin=T102-1
+Added Pin To Net: NetName=+12V_Load Pin=T102-2
+Added Pin To Net: NetName=+12V_Load Pin=T103-1
+Added Pin To Net: NetName=+12V_Load Pin=T103-2
+Added Pin To Net: NetName=+12V_Load Pin=T104-1
+Added Pin To Net: NetName=+12V_Load Pin=T104-2
+Added Pin To Net: NetName=+12V_Load Pin=T105-1
+Added Pin To Net: NetName=+12V_Load Pin=T105-2
+Added Pin To Net: NetName=+12V_Load Pin=T106-1
+Added Pin To Net: NetName=+12V_Load Pin=T106-2
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R201 10K
+Added Member To Class: ClassName=U_1_Power Member=Component T102 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T105 Terminal pin 6.3mm

@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=cell 2_f Pin=C403-2
+Removed Pin From Net: NetName=cell 3_f Pin=C405-2
+Removed Pin From Net: NetName=cell 2_f Pin=FB401-2
+Removed Pin From Net: NetName=cell 3_f Pin=FB402-2
+Removed Pin From Net: NetName=cell 1 Pin=J301-2
+Removed Pin From Net: NetName=cell 2 Pin=J301-3
+Removed Pin From Net: NetName=cell 3 Pin=J301-4
+Removed Pin From Net: NetName=+24 Pin=T100-1
+Removed Pin From Net: NetName=+24 Pin=T100-2
+Removed Pin From Net: NetName=+24 Pin=T101-1
+Removed Pin From Net: NetName=+24 Pin=T101-2
+Removed Pin From Net: NetName=+24 Pin=T102-1
+Removed Pin From Net: NetName=+24 Pin=T102-2
+Removed Pin From Net: NetName=+24 Pin=T103-1
+Removed Pin From Net: NetName=+24 Pin=T103-2
+Removed Pin From Net: NetName=+24 Pin=T104-1
+Removed Pin From Net: NetName=+24 Pin=T104-2
+Removed Pin From Net: NetName=+24 Pin=T105-1
+Removed Pin From Net: NetName=+24 Pin=T105-2
+Removed Pin From Net: NetName=+24 Pin=T106-1
+Removed Pin From Net: NetName=+24 Pin=T106-2
+Removed Pin From Net: NetName=+24 Pin=T107-1
+Removed Pin From Net: NetName=+24 Pin=T107-2
+Removed Pin From Net: NetName=+24 Pin=T108-1
+Removed Pin From Net: NetName=+24 Pin=T108-2
+Removed Pin From Net: NetName=+24 Pin=T109-1
+Removed Pin From Net: NetName=+24 Pin=T109-2
+Removed Pin From Net: NetName=+24 Pin=T110-1
+Removed Pin From Net: NetName=+24 Pin=T110-2
+Removed Pin From Net: NetName=+24 Pin=T111-1
+Removed Pin From Net: NetName=+24 Pin=T111-2
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C200-1
+Added Pin To Net: NetName=gnd Pin=C201-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=cell 2_f Pin=C407-2
+Added Pin To Net: NetName=cell 4_f Pin=C409-2
+Added Pin To Net: NetName=cell 3_f Pin=C411-2
+Added Pin To Net: NetName=+24 Pin=C415-2
+Added Pin To Net: NetName=cell 2_f Pin=FB403-2
+Added Pin To Net: NetName=cell 4_f Pin=FB404-2
+Added Pin To Net: NetName=cell 3_f Pin=FB405-2
+Added Pin To Net: NetName=+24 Pin=FB407-2
+Added Pin To Net: NetName=cell 4 Pin=J301-2
+Added Pin To Net: NetName=cell 5 Pin=J301-3
+Added Pin To Net: NetName=cell 6 Pin=J301-4
+Added Pin To Net: NetName=+24 Pin=P201-3
+Added Pin To Net: NetName=+12V_Load Pin=T100-1
+Added Pin To Net: NetName=+12V_Load Pin=T100-2
+Added Pin To Net: NetName=+12V_Load Pin=T101-1
+Added Pin To Net: NetName=+12V_Load Pin=T101-2
+Added Pin To Net: NetName=+12V_Load Pin=T102-1
+Added Pin To Net: NetName=+12V_Load Pin=T102-2
+Added Pin To Net: NetName=+12V_Load Pin=T103-1
+Added Pin To Net: NetName=+12V_Load Pin=T103-2
+Added Pin To Net: NetName=+12V_Load Pin=T104-1
+Added Pin To Net: NetName=+12V_Load Pin=T104-2
+Added Pin To Net: NetName=+12V_Load Pin=T105-1
+Added Pin To Net: NetName=+12V_Load Pin=T105-2
+Added Pin To Net: NetName=+12V_Load Pin=T106-1
+Added Pin To Net: NetName=+12V_Load Pin=T106-2
+Added Pin To Net: NetName=+12V_Load Pin=T107-1
+Added Pin To Net: NetName=+12V_Load Pin=T107-2
+Added Pin To Net: NetName=+12V_Load Pin=T108-1
+Added Pin To Net: NetName=+12V_Load Pin=T108-2
+Added Pin To Net: NetName=+12V_Load Pin=T109-1
+Added Pin To Net: NetName=+12V_Load Pin=T109-2
+Added Pin To Net: NetName=+12V_Load Pin=T110-1
+Added Pin To Net: NetName=+12V_Load Pin=T110-2
+Added Pin To Net: NetName=+12V_Load Pin=T111-1
+Added Pin To Net: NetName=+12V_Load Pin=T111-2
+Add Net: Net with name "cell 2_f" already exists
+Add Net: Net with name "cell 3_f" already exists
+Change Class Name : Old Net Name=1_Power New Net Name=U_1_Power
+Change Class Name : Old Net Name=2_CircuitBreaker New Net Name=U_2_CircuitBreaker
+Change Class Name : Old Net Name=3_BMS New Net Name=U_3_BMS
+Change Class Name : Old Net Name=4_Protection New Net Name=U_4_Protection

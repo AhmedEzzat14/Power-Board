@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=12V_Signal Pin=*200-5
+Removed Pin From Net: NetName=12V_Signal Pin=*-5
+Removed Pin From Net: NetName=12V_Signal Pin=P200-1
+Removed Pin From Net: NetName=12V_Signal Pin=P201-1
+Removed Pin From Net: NetName=12V_Signal Pin=R200-2
+Removed Pin From Net: NetName=12V_Signal Pin=R201-2
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=Net*200_5 Pin=*200-5
+Added Pin To Net: NetName=Net*200_5 Pin=P201-1
+Added Pin To Net: NetName=Net*200_5 Pin=R201-2
+Added Net: Name=Net*200_5
+Added Pin To Net: NetName=Net*_5 Pin=*-5
+Added Pin To Net: NetName=Net*_5 Pin=P200-1
+Added Pin To Net: NetName=Net*_5 Pin=R200-2
+Added Net: Name=Net*_5
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R200 10K
+Added Member To Class: ClassName=U_1_Power Member=Component T101 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T103 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T104 Terminal pin 6.3mm
+Added Member To Class: ClassName=U_1_Power Member=Component T106 Terminal pin 6.3mm

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=+12V_Load Pin=P201-2
+Added Component: Designator=*?(Optocoupler_4n25)
+Added Component: Designator=*(Optocoupler_4n25)
+Added Component: Designator=R?(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES_1206)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_Signal Pin=*-1
+Added Pin To Net: NetName=Signal_GND Pin=*-2
+Added Pin To Net: NetName=gnd Pin=*-4
+Added Pin To Net: NetName=12V_Signal Pin=*-5
+Added Pin To Net: NetName=24V_Signal Pin=*?-1
+Added Pin To Net: NetName=Signal_GND Pin=*?-2
+Added Pin To Net: NetName=12V_Signal Pin=*?-5
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Added Pin To Net: NetName=+12_unfiltered Pin=R?-1
+Added Pin To Net: NetName=+12_unfiltered Pin=R?-1
+Added Pin To Net: NetName=12V_Signal Pin=R?-2
+Added Pin To Net: NetName=12V_Signal Pin=R?-2
+Added Pin To Net: NetName=+24V_Load Pin=P201-2
+Added Net: Name=+24V_Load
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component *? Optocoupler_4n25
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component * Optocoupler_4n25
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R? 10K
+Added Member To Class: ClassName=U_2_CircuitBreaker Member=Component R? 10K

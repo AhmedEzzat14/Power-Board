@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=gnd Pin=T138-1
+Removed Pin From Net: NetName=gnd Pin=T138-2
+Removed Pin From Net: NetName=gnd Pin=T139-1
+Removed Pin From Net: NetName=gnd Pin=T139-2
+Removed Pin From Net: NetName=gnd Pin=T140-1
+Removed Pin From Net: NetName=gnd Pin=T140-2
+Removed Pin From Net: NetName=gnd Pin=T141-1
+Removed Pin From Net: NetName=gnd Pin=T141-2
+Removed Pin From Net: NetName=gnd Pin=T142-1
+Removed Pin From Net: NetName=gnd Pin=T142-2
+Removed Pin From Net: NetName=gnd Pin=T143-1
+Removed Pin From Net: NetName=gnd Pin=T143-2
+Removed Pin From Net: NetName=gnd Pin=T144-1
+Removed Pin From Net: NetName=gnd Pin=T144-2
+Removed Pin From Net: NetName=gnd Pin=T145-1
+Removed Pin From Net: NetName=gnd Pin=T145-2
+Removed Pin From Net: NetName=gnd Pin=T146-1
+Removed Pin From Net: NetName=gnd Pin=T146-2
+Removed Pin From Net: NetName=gnd Pin=T147-1
+Removed Pin From Net: NetName=gnd Pin=T147-2
+Removed Pin From Net: NetName=gnd Pin=T148-1
+Removed Pin From Net: NetName=gnd Pin=T148-2
+Removed Pin From Net: NetName=gnd Pin=T149-1
+Removed Pin From Net: NetName=gnd Pin=T149-2
+Removed Pin From Net: NetName=gnd Pin=T150-1
+Removed Pin From Net: NetName=gnd Pin=T150-2
+Removed Pin From Net: NetName=gnd Pin=T151-1
+Removed Pin From Net: NetName=gnd Pin=T151-2
+Removed Member From Class: ClassName=U_1_Power Member=T138
+Removed Member From Class: ClassName=U_1_Power Member=T139
+Removed Member From Class: ClassName=U_1_Power Member=T140
+Removed Member From Class: ClassName=U_1_Power Member=T141
+Removed Member From Class: ClassName=U_1_Power Member=T142
+Removed Member From Class: ClassName=U_1_Power Member=T143
+Removed Member From Class: ClassName=U_1_Power Member=T144
+Removed Member From Class: ClassName=U_1_Power Member=T145
+Removed Member From Class: ClassName=U_1_Power Member=T146
+Removed Member From Class: ClassName=U_1_Power Member=T147
+Removed Member From Class: ClassName=U_1_Power Member=T148
+Removed Member From Class: ClassName=U_1_Power Member=T149
+Removed Member From Class: ClassName=U_1_Power Member=T150
+Removed Member From Class: ClassName=U_1_Power Member=T151
+Added Pin To Net: NetName=gnd Pin=C101-1
+Added Pin To Net: NetName=gnd Pin=C202-1
+Added Pin To Net: NetName=NetC203_1 Pin=C203-1
+Add Net: Net with name "+12" already exists
+Add Net: Net with name "cell 2_f" already exists
+Add Net: Net with name "cell 3_f" already exists
+Add Net: Net with name "Mosfet_High" already exists
+Add Net: Net with name "Mosfet_Low" already exists
